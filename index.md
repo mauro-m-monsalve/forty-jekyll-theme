@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Mauro M. Monsalve Mercado, Ph.D.'
 description: null
 image: null
 author: null
