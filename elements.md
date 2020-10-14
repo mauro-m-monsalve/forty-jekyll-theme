@@ -16,7 +16,7 @@ nav-menu: true
 
 <!-- Content -->
 
-<p>Open a PDF file <a href="cv.pdf">example</a>.</p>
+<p>Open the <a href="cv.pdf">CV</a>.</p>
 
 </div>
 </section>
