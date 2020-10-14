@@ -1,9 +1,9 @@
 # site settings
 title: Mauro
 subtitle: Monsalve
-email: youremailaddress@gmail.com
+email: mauro.m.monsalve@columbia.edu
 description: Mauro M. Monsalve Mercado, Ph.D.<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/info" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
