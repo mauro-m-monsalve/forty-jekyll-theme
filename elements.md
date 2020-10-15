@@ -1,5 +1,6 @@
 ---
 layout: page
+image: moose.jpeg
 title: Curriculum Vitae
 nav-menu: true
 ---
