@@ -16,9 +16,10 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
+<p><a href="cv.pdf">Open the CV</a></p>
 
 <img src="assets/images/stars.jpeg" alt="Rockies" style="width:532px;height:800px;">
-<p><a href="cv.pdf">Open the CV</a>.</p>
+
 
 
 </div>
