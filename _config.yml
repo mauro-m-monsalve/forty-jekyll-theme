@@ -11,7 +11,7 @@ city: New York
 state: NY
 zip_code: 10027
 country: United States of America
-phone: #(716) 555-5555
+phone: +1 929 390 5949
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
