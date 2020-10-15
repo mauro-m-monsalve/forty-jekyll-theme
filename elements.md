@@ -17,8 +17,8 @@ nav-menu: true
 
 <!-- Content -->
 
-<p><img src="assets/images/stars.jpeg" alt="Rockies" style="width:266px;height:400px;">
-Open the <a href="cv.pdf">CV</a>.</p>
+<img src="assets/images/stars.jpeg" alt="Rockies" style="width:532px;height:800px;">
+<p><a href="cv.pdf">Open the CV</a>.</p>
 
 
 </div>
