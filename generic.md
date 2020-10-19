@@ -6,4 +6,5 @@ image: assets/images/JLGS.jpg
 nav-menu: true
 ---
 
-Stuff about me.
+I'm a computational neuroscientist modelling how the brain works.
+
