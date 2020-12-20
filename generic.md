@@ -2,7 +2,7 @@
 layout: post
 title: About
 description: 
-image: assets/images/JLGS.jpg
+image: assets/images/maurom.jpeg
 nav-menu: true
 ---
 
