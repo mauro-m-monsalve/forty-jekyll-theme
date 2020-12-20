@@ -7,7 +7,7 @@ nav-menu: true
 ---
 
 <br><br><br>
-<img src="assets/images/mauro.jpg" align=left style=margin:10px">
+<img src="assets/images/mauro.jpg" align="left" style="margin:10px">
 
 
 <p> Mauro is currently a postdoctoral research scientist in the Center for Theoretical Neuroscience at Columbia University in the city of New York. He completed his undergraduate studies in physics and mathematics at the National University of Colombia and holds a master's degree in Theoretical and Mathematical Physics and a Ph.D. in Computational Neuroscience from the University of Munich in Germany.
