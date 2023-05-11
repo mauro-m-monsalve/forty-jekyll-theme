@@ -15,7 +15,7 @@ nav-menu: true
     }
   </style>
 </head>
-
+<body>
 <div class="square">
     <div>
       <img src=
@@ -26,3 +26,4 @@ nav-menu: true
 Mauro combines analytical methods from mathematical physics and computational approaches from machine learning to explain diverse phenomena in neuroscience. His contributions include in-depth analyses of neural network models of different brain systems, from the brain's spatial navigation system in the hippocampal formation to the visual system in primary visual cortex.
 Mauro's short- and long-term research goals are oriented towards the understanding of computation in the brain. What are the general algorithms and motifs of computation in the brain? How are they mechanistically implemented by the neural substrate? What purposes does it serve for cognition and behaviour? Mauro studies multiple systems serving seemingly unrelated purposes in the brain in order to extract the general rules and common frameworks that underlie their success in representing and understanding the world.
   </p>
+</body>
