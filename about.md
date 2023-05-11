@@ -2,7 +2,7 @@
 layout: post
 title: About
 description:
-image: assets/images/MauroMonsalve.jpg
+image:
 nav-menu: true
 ---
 <head>
