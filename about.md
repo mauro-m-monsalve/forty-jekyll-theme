@@ -5,6 +5,7 @@ description:
 image:
 nav-menu: true
 ---
+<html>
 <head>
 <style>
     body {margin: 20px;text-align: center;}
@@ -27,3 +28,4 @@ Mauro combines analytical methods from mathematical physics and computational ap
 Mauro's short- and long-term research goals are oriented towards the understanding of computation in the brain. What are the general algorithms and motifs of computation in the brain? How are they mechanistically implemented by the neural substrate? What purposes does it serve for cognition and behaviour? Mauro studies multiple systems serving seemingly unrelated purposes in the brain in order to extract the general rules and common frameworks that underlie their success in representing and understanding the world.
   </p>
 </body>
+</html>
