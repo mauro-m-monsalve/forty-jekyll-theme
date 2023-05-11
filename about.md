@@ -5,7 +5,7 @@ description:
 image:
 nav-menu: true
 ---
-<img scr=”/assets/images/MauroMath.jpg” align=”left” style="margin:0px 50px"/>
+<img scr=”assets/images/MauroMath.jpg” align=”left” style="margin:0px 50px"/>
 
 Mauro is currently a postdoctoral research scientist in the Center for Theoretical Neuroscience at Columbia University in the city of New York. He completed his undergraduate studies in physics and mathematics at the National University of Colombia and holds a master's degree in Theoretical and Mathematical Physics and a Ph.D. in Computational Neuroscience from the University of Munich in Germany.
 Mauro combines analytical methods from mathematical physics and computational approaches from machine learning to explain diverse phenomena in neuroscience. His contributions include in-depth analyses of neural network models of different brain systems, from the brain's spatial navigation system in the hippocampal formation to the visual system in primary visual cortex.
