@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Landing
 layout: landing
 description:
 image: assets/images/pic07.jpg
