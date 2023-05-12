@@ -46,7 +46,7 @@ nav-menu: true
 				<header class="major">
 					<h3>What makes humans human?</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>The cognitive abilities that characterize humans are thought to emerge from unique features of the cortical circuit architecture of the human brain, which include increased cortico–cortical connectivity. However, the evolutionary origin of these changes in connectivity and how they affected cortical circuit function and behaviour are currently unknown. In this work we explore the changes in the brain of a genetically modified mouse as a result of a human-specific gene that emerged in the ancestral genome of the Homo lineage before the major phase of increase in brain size. We use a computational model to understand the major changes in the humanized mouse's behaviour and increased performance in cognitive tasks. </p>
 				<ul class="actions">
 					<li><a href="humanmouse.html" class="button">Learn more</a></li>
 				</ul>
