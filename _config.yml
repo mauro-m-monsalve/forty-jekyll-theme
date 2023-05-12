@@ -43,4 +43,5 @@ exclude:
 - CONTRIBUTING.md
 - README.md 
 - elements.md
-#- landing.md
+- landing.md
+- cv.md
