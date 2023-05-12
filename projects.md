@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="gridcells.html" class="image">
-			<img src="assets/images/CoberRGB.jpg" alt="" data-position="center center" />
+			<img src="assets/images/CoverRGB.ong" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
