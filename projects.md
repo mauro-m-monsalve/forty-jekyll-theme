@@ -2,7 +2,7 @@
 title: Projects
 layout: landing
 description: Selected works on how the brain works
-image:
+image: assets/images/CoverRGB.png
 nav-menu: true
 ---
 
