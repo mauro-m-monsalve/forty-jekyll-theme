@@ -39,7 +39,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="humanmouse.html" class="image">
-			<img src="humanmouse.jpg" alt="" data-position="top center" />
+			<img src="humanmouse.png" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
