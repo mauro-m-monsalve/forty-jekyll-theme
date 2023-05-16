@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: page
 title: Grid cells
 description:
 image:
 nav-menu: false
 ---
+
+We developed a biologically plausible model explaining the formation of grid cells’ hexagonal patterns (Monsalve-Mercado & Leibold, 2017, 2020). The model is built upon a neural network framework whose architecture reflects existing axonal projections from hippocampal subfield CA1 into the medial Entorhinal cortex, where grid cells are found (Fig. 1A). Electrophysiological recordings of place cells in CA1 reveal an efficient strategy for the temporal encoding of spatial information. Termed phase precession, it allows cells to reproduce a sequence of overlapping place fields in timescales of a hundred milliseconds instead of behavioural timescales of the order of seconds (Dragoi & Buzsáki, 2006). 
 
 <figure>
     <img src="assets/images/gridcell1.png" alt="gc1" align="left" width="400" style="margin:20px 20px">
@@ -15,6 +17,8 @@ Adapted from Monsalve-Mercado & Leibold, 2020.
   </figcaption>
 </figure>
 
+A mathematical analysis of phase precession results in two interesting predictions for the encoding of two-dimensional space (Fig. 2, Monsalve-Mercado & Leibold, 2017). First, on behavioural timescales the spike-time cross-correlation of a pair of place cells should be approximately symmetric in the time domain when filtered in the theta band (8-12 Hz). As a result, the phase of the filtered signal at zero time-lag must be close to either 0° or 180°. Second, at the population level, these phases correlate with the distance between the place fields of the respective cell-pair, forming two clear clusters in the two-dimensional space spanned by phase and place field distance. In additional work (Monsalve‐Mercado & Roudi, 2020), these predictions were validated on hippocampal recordings of rats foraging in the open field.
+
 <figure>
     <img src="assets/images/gridcell2.png" alt="gc2" align="left" width="400" style="margin:20px 20px">
     <figcaption>
@@ -24,5 +28,4 @@ Adapted from Monsalve‐Mercado & Roudi, 2020.
   </figcaption>
 </figure>
 
-We developed a biologically plausible model explaining the formation of grid cells’ hexagonal patterns (Monsalve-Mercado & Leibold, 2017, 2020). The model is built upon a neural network framework whose architecture reflects existing axonal projections from hippocampal subfield CA1 into the medial Entorhinal cortex, where grid cells are found (Fig. 1A). Electrophysiological recordings of place cells in CA1 reveal an efficient strategy for the temporal encoding of spatial information. Termed phase precession, it allows cells to reproduce a sequence of overlapping place fields in timescales of a hundred milliseconds instead of behavioural timescales of the order of seconds (Dragoi & Buzsáki, 2006). A mathematical analysis of phase precession results in two interesting predictions for the encoding of two-dimensional space (Fig. 2, Monsalve-Mercado & Leibold, 2017). First, on behavioural timescales the spike-time cross-correlation of a pair of place cells should be approximately symmetric in the time domain when filtered in the theta band (8-12 Hz). As a result, the phase of the filtered signal at zero time-lag must be close to either 0° or 180°. Second, at the population level, these phases correlate with the distance between the place fields of the respective cell-pair, forming two clear clusters in the two-dimensional space spanned by phase and place field distance. In additional work (Monsalve‐Mercado & Roudi, 2020), these predictions were validated on hippocampal recordings of rats foraging in the open field.
 Why are these predictions important? A mathematical analysis of the network model suggests that this relationship is the key ingredient resulting in the development of grid cells’ hexagonal patterns. A simple unsupervised learning rule for the feedforward weights, based on simultaneous co-activation of input and output units (Hebbian learning), transforms the predicted relationship found in the input into a convolutional network with a filter kernel resembling a Mexican-hat shape (Fig. 1B). The weights are then shown to asymptotically self-organise into hexagonal patterns, reproducing the patterns in the output grid cell units. Mathematically, the network is equivalent to a Turing pattern formation process of strongly coupled systems, which reproduces in a simple framework most properties reported for grid cells as a population (Monsalve-Mercado & Leibold, 2020).
