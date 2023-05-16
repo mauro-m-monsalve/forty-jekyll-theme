@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: landing
-description: Selected works on how the brain works
+description: Selected works on computational neuroscience
 image: assets/images/hipo.jpg
 nav-menu: true
 ---
