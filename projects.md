@@ -22,7 +22,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="gridcells.md" class="image">
+		<a href="gridcells.html" class="image">
 			<img src="assets/images/CoverRGB.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -32,7 +32,7 @@ nav-menu: true
 				</header>
 				<p>Specialised cells in the mammalian hippocampal formation constitute the brain’s navigation system. The cells’ neural activity correlates with different aspects of the animal’s location and movements in space. Place cells, for instance, fire when the animal moves through a confined region of its environment (its place field). Different place cells fire for different regions, and together as a population they cover all of the environment. Grid cells, on the other hand, fire whenever the animal walks through the vertices of a hexagonal lattice that tessellates space. The system forms the neural substrate in the brain for self-positioning and path planning, motivating its focus as an exciting field of research. Key questions about the system are: How do these representations arise? What mechanistic properties of the system allow it to perform computations about space? What insights about brain function can we gain from its study? .</p>
 				<ul class="actions">
-					<li><a href="gridcells.md" class="button">Learn more</a></li>
+					<li><a href="gridcells.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
