@@ -5,14 +5,14 @@ description: Neural population decoding of single decisions
 image:
 
 ---
-  <head> 
-    <script src="jquery.js"></script> 
-    <script> 
-    $(function(){
-      $("#includedContent").load("assets/images/TimeWarp3DPCAS6.html"); 
-    });
-    </script> 
-  </head> 
+<head> 
+  <script src="jquery.js"></script> 
+  <script> 
+  $(function(){
+    $("#includedContent").load("assets/images/TimeWarp3DPCAS6.html"); 
+  });
+  </script> 
+</head> 
   
 <div id="includedContent"></div>
 
