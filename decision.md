@@ -6,7 +6,9 @@ image:
 
 ---
 
-<div w3-include-html="assets/images/lfads.html"></div>
+<div w3-include-html="assets/images/TimeWarp3DPCAS6.html"></div>
+
+<div w3-include-html="assets/images/LFADS-S6.html"></div>
 
 <figure>
     <img src="assets/images/monkey.png" alt="gc1" align="left" width="400" style="margin:20px 20px">
