@@ -2,7 +2,7 @@
 layout: post
 title: Grid cells
 description:
-image:
+image: assets/images/CoverRGB.png
 
 ---
 
