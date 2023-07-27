@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Decison-making
+title: Decision-making
 description: Neural population decoding of single decisions 
-image: 
+image: assets/images/oldlfads.png
 ---
-
+In our every day lives we are constantly bombarded with choices. Making a decision involves a deliberative process that results in the commitment to a categorical proposition. To commit to a choice we must take into account the amount and quality of evidence we have in favor or against available choices. We can gain insigths into this decision making process by understanding the neural underpinnings and correlates of how decisions are made. In this project, we model how neural networks are able to integrate and evaluate evidence to reach a decision in an experiment where monkeys perform a visual decision making task. The details of the task are described in Figure 1.
 
 <figure>
     <img src="assets/images/monkey.png" alt="gc1" align="left" width="800" style="margin:20px 20px">
@@ -14,4 +14,10 @@ image:
 </figure>
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="assets/images/TimeWarp3DPCAS6.html" height="800" width="100%"></iframe>
+
+To investigate the neural representation of the decision-making process at the population level, we initially characterized the trial-average activity for each of the 12 conditions. This analysis involves examining the aggregate activity patterns of neurons across multiple trials within each condition. To accommodate the inherent variability in the timing of neural activity relative to relevant behavioral events within each trial, we applied a time-warping transformation to the spiking activity. This transformation allowed us to align the neural activity across trials, facilitating a more accurate comparison and analysis of the spiking patterns associated with the decision-making process. The time warping effectively harmonizes the temporal coordination of task-related events across trials, facilitating a more precise and consistent analysis of the neural activity in relation to the task's behavioral stages, and enabling a direct and meaningful comparison across different conditions, as the neural signals are now on a unified and interpretable warped time scale.
+
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="assets/images/LFADS-S6.html" height="800" width="100%"></iframe>
+
+Next we characterize how the neural population encodes the decision-making process at the single trial level. The main challenge lies in accurately estimating the temporal changes in neural activity, given that it is heavily distorted by various sources of noise. We use a deep-learning approach to obtain the best guess for the neural activity. We use the LFADS model, specifically designed to capture the underlying dynamics and latent factors that govern the observed time-series data. It is often applied in the context of analyzing neural activity data, where the goal is to uncover the hidden factors that contribute to the observed neural responses. The LFADS model is based on a deep learning architecture that combines variational autoencoders with recurrent neural networks (RNNs). It can be used to infer the latent variables (hidden factors) that give rise to the observed data, denoise the data, and generate predictions for future time steps.
+
