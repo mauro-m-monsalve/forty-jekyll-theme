@@ -9,14 +9,16 @@ image:
     <script src="jquery.js"></script> 
     <script> 
     $(function(){
-      $("#includedContent").load("assets/images/TimeWarp3DPCAS6.html.html"); 
+      $("#includedContent").load("assets/images/TimeWarp3DPCAS6.html"); 
     });
     </script> 
   </head> 
   
 <div id="includedContent"></div>
 
-<div w3-include-html="assets/images/LFADS-S6.html"></div>
+
+<iframe src="assets/images/TimeWarp3DPCAS6.html" seamless></iframe>
+
 
 <figure>
     <img src="assets/images/monkey.png" alt="gc1" align="left" width="800" style="margin:20px 20px">
