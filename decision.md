@@ -5,8 +5,16 @@ description: Neural population decoding of single decisions
 image:
 
 ---
-
-<div w3-include-html="assets/images/TimeWarp3DPCAS6.html"></div>
+  <head> 
+    <script src="jquery.js"></script> 
+    <script> 
+    $(function(){
+      $("#includedContent").load("assets/images/TimeWarp3DPCAS6.html.html"); 
+    });
+    </script> 
+  </head> 
+  
+<div id="includedContent"></div>
 
 <div w3-include-html="assets/images/LFADS-S6.html"></div>
 
