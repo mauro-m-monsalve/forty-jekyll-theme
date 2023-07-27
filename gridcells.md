@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Grid cells
-description:
+description: On the neural representation of space
 image: assets/images/CoverRGB.png
 
 ---
